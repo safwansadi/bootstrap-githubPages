@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-metadata
 node_modules
 Gemfile.lock
+=======
+node_modules
+>>>>>>> 9de5568... final
